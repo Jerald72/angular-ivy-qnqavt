@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+  width: fit-content;
+  border: solid 5px rgb(17, 17, 17);
+  background-color: rgb(7, 155, 147);
+  position: relative;
+  top: 10px;
+  left: 120px;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  color: rgb(7, 155, 147);
+  border: solid 3px rgb(0, 0, 0);
+  width: fit-content;
+  position: relative;
+  bottom: 150px;
+  left: 200px;
+}
+
+.img {
+  position: relative;
+  left: 50px;
+  right: 100px;
+  top: 15px;
+  border: solid 5px rgb(0, 0, 0);
+  width: fit-content;
+}
